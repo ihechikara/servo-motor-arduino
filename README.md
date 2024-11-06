@@ -2,7 +2,7 @@
 
 ### Circuit Diagram
 
-![Circuit Diagram](/circuit-diagram.png)
+![Circuit Diagram](/circuit-diagram-servo.png)
 
 ### Components Used
 - Arduino board (Uno).
