@@ -13,7 +13,7 @@
 
 Find the code for this project [here](https://github.com/ihechikara/servo-motor-arduino/blob/main/servo.ino).
 
-Watch the video for this project [here]().
+Watch the video for this project [here](https://youtu.be/AUO_aIB3H14).
 
 Read the article for this project [here](https://ihechikara.com/posts/how-to-control-servo-arduino/).
 
